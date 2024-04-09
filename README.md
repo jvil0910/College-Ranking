@@ -1,0 +1,1 @@
+This project observes how different factors affect a college's rank when compared to other schools. We analyzed the relationship between aspects like tuition and graduation rate and a college's rank and examined the amount of weight each variable has on weight. Our research was done specifically on universities within the United States.
